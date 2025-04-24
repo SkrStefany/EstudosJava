@@ -1,15 +1,2 @@
-
-* Começo dos meus Estudo em java
-____________________________________
-* Tópicos estudados até o momento!! 
-* Estruturas de dados
-* Algoritmos
-* Orientação a objetos
-* vetor 
-* lista
-* variaveis
-* Arrays
-* Casting  
-* Tipos primitivos
-
-
+# Auto detect text files and perform LF normalization
+* text=auto
